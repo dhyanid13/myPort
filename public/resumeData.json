@@ -1,0 +1,151 @@
+{
+  "main": {
+    "name": "Dhyani Desai",
+    "occupation": "B.Tech student at VIT,Chennai",
+    "description": "Eat, sleep and React",
+    "image": "profilepic.png",
+    "bio": "Hi there! I am Dhyani! an enthusiastic mind with an excellent Academic Record and Leadership Skills believing in Technology can better and empower our lives.. I've been coding for over 3 years now. As a  developer I've worked on and contributed to various projects. Along the journey my previous experiences have allowed me to develop abilities in Data Structures and Algorithms and Full Stack Development with Machine Learning and AI. My focus, as an aspiring professional, is to utilize my strengths and to make a positive impact on the people i work and interact with. I enjoy gathering, organizing and analysing information, working in groups, contributing to project strategies and exploring new technologies..",
+    "contactmessage": "Get in touch with me to know more about me and my work!",
+    "email": "dhyanidhaval@gmail.com",
+    "phone": "+91 8160266610",
+    "address": {
+      "street": "A3,301,Gopal Park",
+      "city": "Surat",
+      "state": "Gujarat",
+      "zip": "395001"
+    },
+    "website": "",
+    "resumedownload": "https://drive.google.com/file/d/1TOqiW5pf_liqZDormCqh51mLDuHANbPh/view?usp=sharing",
+    "social": [
+      {
+        "name": "github",
+        "url": "https://github.com/dhyanid13",
+        "className": "fa fa-github"
+      }
+     ,
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/dhyani-desai-2706021b4/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/ssssangha/",
+        "className": "fa fa-instagram"
+      },
+       
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/",
+        "className": "fa fa-facebook"
+      }
+      
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Vellore Institute of Technology-Chennai",
+        "degree": "Bachelor's Degree, Computer Science",
+        "graduated": "2019-2023",
+        "description": "CGPA-9.66"
+      }
+    ],
+    "work": [
+      {
+        "company": "PAPA",
+        "title": "Founder and CEO",
+        "years": "May 2019 - Present",
+        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
+      }
+    ],
+    "skills": [
+      {
+        "name": "C++",
+        "level": "100%"
+      },
+      {
+        "name": "JAVA",
+        "level": "90%"
+      },
+      {
+        "name": "Python",
+        "level": "90%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "85%"
+      },
+      {
+        "name": "PHP",
+        "level": "95%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Software Process and Agile Practices",
+        "category": "",
+        "image": "1.png",
+        "url": "https://www.coursera.org/account/accomplishments/verify/Y64YPQCH26QK"
+      },
+      
+      {
+        "title": "Neural Networks and Deep Learning",
+        "category": "",
+        "image": "2.png",
+        "url": "https://www.coursera.org/account/accomplishments/verify/TZH7X5GCDZ82"
+      },
+      {
+        "title": "AWS Fundamentals: Going Cloud-Native",
+        "category": "",
+        "image": "3.png",
+        "url": "https://www.coursera.org/account/accomplishments/verify/5D39WX4XX7FV"
+      },
+      {
+        "title": "Data Structures",
+        "category": "",
+        "image": "4.png",
+        "url": "chttps://www.coursera.org/account/accomplishments/verify/LQ3TP5NUSMQR"
+      },
+      {
+        "title": "Getting Started with AWS Machine Learning",
+        "category": "",
+        "image": "5.png",
+        "url": "https://www.coursera.org/account/accomplishments/verify/K4VRD8DN3BM7"
+      },
+      {
+        "title": "Advanced Styling with Responsive Design",
+        "category": "",
+        "image": "7.png",
+        "url": "https://www.coursera.org/account/accomplishments/verify/HH339346PQM3"
+      },
+      {
+        "title": "Network Security & Database Vulnerabilities",
+        "category": "",
+        "image": "6.png",
+        "url": "https://www.coursera.org/account/accomplishments/verify/FG4W6F92J3FM"
+      },
+      {
+        "title": "Introduction to Packet Tracer",
+        "category": "",
+        "image": "8.png",
+        "url": ""
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "",
+        "user": ""
+      },
+      {
+        "text": "",
+        "user": ""
+      }
+    ]
+  }
+}
